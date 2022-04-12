@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋, I’m @gdeswiyasa.\
+### Hi 👋, I’m @gdeswiyasa.
 👀 I’m interested in Flutter Mobile Application Development.\
 🌱 I’m currently learning Computer Science at Institute Teknologi dan Bisnis Indonesia.\
 📫 How to reach me email: gdeswiyasa123@gmail.com.
